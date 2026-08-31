@@ -1,0 +1,10 @@
+scenario,mode,n_agents,elapsed_virtual_seconds,dials_placed,completed,failed,abandoned,connect_rate,abandonment_rate,utilization_estimate,final_pacing_scale,final_answer_rate_estimate
+predictive_ar20_aht120,PREDICTIVE,12,1816.0,1023,163,849,39,0.1975,0.1931,0.8837,0.100,0.320
+predictive_ar50_aht120,PREDICTIVE,12,1820.9,413,162,240,35,0.4770,0.1777,0.8768,0.100,0.540
+predictive_ar70_aht120,PREDICTIVE,12,1822.7,282,176,94,18,0.6879,0.0928,0.9333,0.100,0.740
+predictive_arCHANGING_aht120,PREDICTIVE,12,1815.3,492,162,318,40,0.4106,0.1980,0.9104,0.100,0.500
+predictive_ar50_aht90,PREDICTIVE,12,1822.2,634,220,402,60,0.4416,0.2143,0.8928,0.100,0.420
+predictive_ar50_aht180,PREDICTIVE,12,1821.3,286,115,159,26,0.4930,0.1844,0.9157,0.100,0.520
+predictive_ar50_ahtCHANGING,PREDICTIVE,12,1818.8,468,165,292,32,0.4209,0.1624,0.9102,0.100,0.380
+predictive_ar50_aht120_providerB,PREDICTIVE,12,1819.2,269,70,187,9,0.2937,0.1139,0.3133,0.100,0.160
+progressive_ar50_aht120,PROGRESSIVE,12,1818.6,318,166,142,0,0.5220,0.0000,0.9104,1.000,0.660
